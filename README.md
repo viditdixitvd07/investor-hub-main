@@ -1,7 +1,7 @@
 # investor-hub-main
-Tech Stack
--React JS
--Redux
--Firebase
--Google Authentication
--Firestore
+## Tech Stack
+1. React JS
+1. Redux
+1. Firebase
+1. Google Authentication
+1. Firestore
